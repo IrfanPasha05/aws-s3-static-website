@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AWS S3 Static Website</title>
+</head>
+<body style="background:black; text-align:center;">
+  <h1 style="color:white;">Static Website Hosted on AWS S3</h1>
+  <img src="download.png" width="300">
+</body>
+</html>
